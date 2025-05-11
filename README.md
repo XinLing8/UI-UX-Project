@@ -95,4 +95,10 @@ We were tasked with **redesigning a digital product (website)** that lacks in us
 
 ---
 
+- Demonstrated knowledge and application of a professional UX design process.
+- Planned and designed a complete user experience and user interface using industry-standard tools.
+- Effectively collaborated as a team and equally contributed to each phase of the assignment.
+
+---
+
 Thank you for reviewing our work!
