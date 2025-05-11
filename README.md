@@ -34,7 +34,7 @@ We were tasked with **redesigning a digital product (website)** that lacks in us
 - [Digital Wireframe (Figma)](https://www.figma.com/design/MIwAyxRNTu8GzRPD9JdJxs/H-M-DIGITAL-WIREFRAME?node-id=0-1&t=xUZ6h5EWAYHJ3U2F-1)
 
 ### 💻 Prototype
-- [Prototype View (Figma)](https://www.figma.com/proto/vXRZp4rDyOXq8pXpHzSXjN/H-M-Prototype?node-id=3-567&t=GV1mnH0NNKBcX0Hk-1&starting-point-node-id=3%3A567)
+- [Prototype (Figma)](https://www.figma.com/proto/vXRZp4rDyOXq8pXpHzSXjN/H-M-Prototype?node-id=3-567&t=GV1mnH0NNKBcX0Hk-1&starting-point-node-id=3%3A567)
 
 ---
 
